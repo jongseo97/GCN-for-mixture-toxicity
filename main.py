@@ -15,9 +15,9 @@ from Model import load_classification_model, load_regression_model, load_MDR_mod
 encoding = 'utf-8-sig'
 
 # input mixture 파일
-input_path = r'Z:\모델링팀\과제\환경부(생활화학제품)\2024.04.03.전달용\예측모델\예시데이터\플랫폼용예시데이터_입력_최종.xlsx'
-model_path = r'Z:\모델링팀\과제\환경부(생활화학제품)\2024.04.03.전달용\예측모델\saved_models\\'
-output_path = r'Z:\모델링팀\과제\환경부(생활화학제품)\2024.04.03.전달용\예측모델\예시데이터\\'
+input_path = #input path
+model_path = #model path
+output_path = #output path
 output_filename = '플랫폼용예시데이터_결과.xlsx'
 
 # reader로 읽어서 dataframe 저장
